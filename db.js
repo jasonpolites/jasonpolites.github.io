@@ -15,5 +15,4 @@ const listDBs = async (src) => {
     };
   }
 }
-
-listDBs('remote');
+listDBs('cross-origin');
